@@ -1,4 +1,3 @@
-# UltraLeapWithJava
- 
-The JavaReadsThis file is what the java code reads. The file path for that text file must be entered into the ReadUltraLeapOutput.java class as well as the Unity application. (ex. D:\UltraLeapWithJava\JavaReadsThis.txt)
+# Ultraleap Robot Arm Controller
 
+This is a Unity project that takes hand position and pose from the Ultraleap Motion Controller to control a robot arm, specifically the MyCOBOT 320.
